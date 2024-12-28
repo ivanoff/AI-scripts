@@ -1,4 +1,4 @@
-![Image](s17-1.png) ![Image](s20-1.png) ![Image](s23-1.png)
+![Image](./s17-1.png) ![Image](./s20-1.png) ![Image](./s23-1.png)
 
 # AI scripts
 
